@@ -1,70 +1,106 @@
-# Getting Started with Create React App
+# [Horizon UI PRO](https://horizon-ui.com/chakra-pro/) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://horizon-ui.com/pro&text=Check%20Horizon%20UI%20PRO,%20the%20trendiest%20Premium%20admin%20template%20for%20Chakra%20UI!)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![version](https://img.shields.io/badge/version-2.0.0-blue.svg)
+[![GitHub issues open](https://img.shields.io/github/issues/horizon-ui/horizon-ui-chakra-pro.svg?maxAge=2592000)](https://github.com/horizon-ui/horizon-ui-chakra-pro/issues?q=is%3Aopen+is%3Aissue)
+[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/horizon-ui/horizon-ui-chakra-pro.svg?maxAge=2592000)](https://github.com/horizon-ui/horizon-ui-chakra-pro/issues?q=is%3Aissue+is%3Aclosed)
 
-## Available Scripts
+Get started and build your dream web app with Horizon UI PRO, the most trendiest &
+innovative Premium Admin Template for Chakra UI & React!
 
-In the project directory, you can run:
+---
 
-### `npm start`
+### Introduction
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Designed for those who like modern UI elements and beautiful websites. Made of
+hundred of elements, designed blocks and fully coded pages, Horizon UI is ready
+to help you create stunning websites and webapps.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Save hundreds of hours trying to create and develop a dashboard from scratch.
+The fastest, most responsive & trendiest dashboard is here. Seriously.
 
-### `npm test`
+With Horizon UI PRO you will find many examples for pages like NFTs Pages,
+Authentication Pages, Profile and so on. Just choose between a Basic Design or a
+cover and you are good to go!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p>&nbsp;</p>
 
-### `npm run build`
+[<img alt="Horizon UI PRO" src="https://i.ibb.co/R6jFKRM/introduction-image-1.png" /> ](https://github.com/horizon-ui/horizon-ui-chakra-pro)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p>&nbsp;</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Documentation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Each element is well presented in a very complex documentation. You can read
+more about the
+<a href="https://horizon-ui.com/docs?ref=readme-horizon-pro" target="_blank">documentation
+here.</a>
 
-### `npm run eject`
+### Quick Start
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Install Horizon UI PRO by running either of the following:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Buy Horizon UI PRO from our website
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Open Horizon UI PRO .zip file
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Install NodeJS LTS from
+  [NodeJs Official Page](https://nodejs.org/en/?ref=horizon-documentation)
+  (NOTE: Product only works with LTS version)
 
-## Learn More
+Run in terminal this command:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+npm install
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Then run this command to start your local server
 
-### Code Splitting
+```bash
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Example Pages
 
-### Analyzing the Bundle Size
+If you want to get inspiration or just show something directly to your clients,
+you can jump start your development with our pre-built example pages. You will
+be able to quickly set up the basic structure for your web project. View
+<a href="https://horizon-ui.com/chakra-pro/?ref=readme-horizon-pro" target="_blank">example pages here.</a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Versions
 
-### Making a Progressive Web App
+| Free Version                                                                                                       | PRO Version                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| [![Horizon UI](https://i.ibb.co/fdyTwz1/introduction-image-2.png)](https://www.horizon-ui.com/?ref=readme-horizon-pro) | [![Horizon UI PRO](https://i.ibb.co/R6jFKRM/introduction-image-1.png)](https://www.horizon-ui.com/pro?ref=readme-horizon-pro) |
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Figma Version
 
-### Advanced Configuration
+Horizon UI PRO is available in Figma format as well! You will find the Figma files on your purchased license! 🎨
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Reporting Issues
 
-### Deployment
+We use GitHub Issues as the official bug tracker for the Horizon UI. Here are
+some advices for our users that want to report an issue:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+1. Make sure that you are using the latest version of the Horizon UI Dashbaord.
+   Check the CHANGELOG from your dashboard on our
+   [CHANGE LOG File](https://github.com/horizon-ui/horizon-ui-chakra-pro/blob/main/CHANGELOG.md?ref=readme-horizon-pro).
+2. Providing us reproducible steps for the issue will shorten the time it takes
+   for it to be fixed.
+3. Some issues may be browser specific, so specifying in what browser you
+   encountered the issue might help.
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Community
+
+Connect with the community! Feel free to ask questions, report issues, and meet
+new people that already use Horizon UI!
+
+💬 [Join the #HorizonUI Discord Community!](https://discord.gg/f6tEKFBd4m)
+
+### Copyright and license
+
+⭐️ [Copyright 2022 Simmmple ](https://www.simmmple.com/?ref=readme-horizon-pro)
+
+📄 [Horizon UI License](https://www.horizon-ui.com/license?ref=readme-horizon-pro)
+# pearapp
